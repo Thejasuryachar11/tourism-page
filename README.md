@@ -28,7 +28,3 @@ Incase you have any difficulties or issues while trying to run the app you can r
 ## Pull Requests
 
 If you have something to add or new idea to implement, you are welcome to create a pull requests on improvement.
-
-## Credits
-
-All the credits to [Davis David ](https://twitter.com/Davis_McDavid)
