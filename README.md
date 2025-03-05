@@ -1,5 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davisy/tanzania-tourism-prediction-app/app.py)
-![MIT LICENSE](https://badgen.net//badge/license/MIT/green)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
+
 
 # Tanzania Tourism Prediction App
 A machine learning app to predict how much money a tourist will spend when visiting Tanzania.
@@ -19,9 +18,6 @@ To access and use the application,donwoload or clone the repository and then run
 
 Finally browse the link provided in your browser.
 
-## Streamlit Cloud
-
-The application has been deployed in the Streamlit Cloud.You can access here: [https://share.streamlit.io/davisy/tanzania-tourism-prediction-app/app.py](https://share.streamlit.io/davisy/tanzania-tourism-prediction-app/app.py)
 
 
 
@@ -32,10 +28,6 @@ Incase you have any difficulties or issues while trying to run the app you can r
 ## Pull Requests
 
 If you have something to add or new idea to implement, you are welcome to create a pull requests on improvement.
-
-## Give it a Star
-
-If you find this repo useful , give it a star so as many people can get to know it.
 
 ## Credits
 
